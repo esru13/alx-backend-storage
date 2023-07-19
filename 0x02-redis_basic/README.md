@@ -1,1 +1,1 @@
-Redis Basicw
+Redis Basics
